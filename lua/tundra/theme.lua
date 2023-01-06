@@ -1,5 +1,5 @@
 
-local c = require('yoru.palette')
+local c = require('tundra.palette')
 
 local hl = vim.api.nvim_set_hl
 local theme = {}

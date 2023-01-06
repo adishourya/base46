@@ -1,7 +1,7 @@
 [information]
 name="catppuccin_latte"
 author="Ken Zhou <kendotzhou@gmail.com>"
-background="light"
+background="dark"
 
 [palette]
 white = "#4C4F69"
