@@ -336,6 +336,15 @@ theme.set_highlights = function()
   hl(0, "ToggleTerm1FloatBorder", { fg = c.line, bg = 'NONE' })
 
   -- Illuminate
+
+  -- Term colors
+  hl(0,"terminal_color_0",{fg = c.black})
+  hl(0,"terminal_color_8",{fg = c.black2})
+  hl(0,"terminal_color_1",{fg = c.red})
+  hl(0,"terminal_color_2",{fg = c.green})
+  hl(0,"terminal_color_3",{fg = c.yellow})
+  hl(0,"terminal_color_4",{fg = c.blue})
+  hl(0,"terminal_color_6",{fg = c.cyan})
   hl(0, "IlluminatedWordText", { fg = 'NONE', bg = c.base02, sp = 'NONE',  })
 end
 
