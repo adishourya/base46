@@ -43,8 +43,8 @@ local colors = {
   teal = "#69a59d",
   orange = "#e69875",
   cyan = "#95d1c9",
-  statusline_bg = "#2e363c",
-  lightbg = "#3d454b",
+  statusline_bg = '#272f35', -- base02
+  lightbg = "#303437",
   pmenu_bg = "#83c092",
   folder_bg = "#7393b3",
 
