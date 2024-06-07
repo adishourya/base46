@@ -1,5 +1,5 @@
 
-local c = require('everforest.palette')
+local c = require('everforest_material.palette')
 
 local hl = vim.api.nvim_set_hl
 local theme = {}

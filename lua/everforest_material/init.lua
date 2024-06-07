@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('everforest.theme')
+local theme = require('everforest_material.theme')
 
 M.setup = function()
   vim.cmd('hi clear')
