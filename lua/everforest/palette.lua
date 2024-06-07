@@ -2,9 +2,11 @@ local colors = {
   white = "#D3C6AA",
   -- dark cokr from coolers.co
   --
-  darker_black = "#1b2125",
-  black = "#232a2f",
-  black2 = "#272f35",
+  darker_black = "#101416",
+  black = "#1b2125",
+  -- black = "#232a2f",
+  -- black2 = "#272f35",
+  black2 = "#232a2f",
 
   one_bg = "#2d3439",
   one_bg2 = "#363e44",
@@ -46,12 +48,18 @@ local colors = {
   pmenu_bg = "#83c092",
   folder_bg = "#7393b3",
 
+  base00 = "#1b2125",
+  base01 = "#232a2f",
+  base02 = "#272f35",
+  base03 = "#303437",
+  base04 = "#343e46",
+
   -- ashes base color
-  base00 = "#232a2f",
-  base01 = "#272f35",
-  base02 = "#303437",
-  base03 = "#343e46",
-  base04 = "#3d4952",
+  -- base00 = "#232a2f",
+  -- base01 = "#272f35",
+  -- base02 = "#303437",
+  -- base03 = "#343e46",
+  -- base04 = "#3d4952",
 
   -- original base colors
   -- base00 = "#2b3339",
