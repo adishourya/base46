@@ -2,7 +2,7 @@ local colors = {
   white = "#D3C6AA",
   -- dark cokr from coolers.co
   --
-  darker_black = "#1a1f23",
+  darker_black = "#1b2125",
   black = "#232a2f",
   black2 = "#272f35",
 
