@@ -41,10 +41,19 @@ local colors = {
   lightbg = "#3d454b",
   pmenu_bg = "#83c092",
   folder_bg = "#7393b3",
-  base00 = "#2b3339",
-  base01 = "#323c41",
-  base02 = "#3a4248",
-  base03 = "#424a50",
+
+  -- ashes base color
+  base00 = "#1c2023",
+  base01 = "#272b2e",
+  base02 = "#303437",
+  base03 = "#44484b",
+
+  -- original base colors
+  -- base00 = "#2b3339",
+  -- base01 = "#323c41",
+  -- base02 = "#3a4248",
+  -- base03 = "#424a50",
+
   base04 = "#4a5258",
   base05 = "#d3c6aa",
   base06 = "#ddd0b4",
