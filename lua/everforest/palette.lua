@@ -1,16 +1,20 @@
 local colors = {
   white = "#D3C6AA",
-  -- dark cokr from ashes
-  darker_black = "#161a1d",
-  black = "#1c2023",
-  black2 = "#24282b",
-  one_bg = "#272b2e",
-  one_bg2 = "#303437",
-  one_bg3 = "#3a3e41",
-  grey = "#44484b",
-  grey_fg = "#4a4e51",
-  grey_fg2 = "#515558",
-  light_grey = "#565a5d",
+  -- dark cokr from coolers.co
+  --
+  darker_black = "#1a1f23",
+  black = "#232a2f",
+  black2 = "#272f35",
+
+  one_bg = "#2d3439",
+  one_bg2 = "#363e44",
+  one_bg3 = "#3a4248",
+
+  grey = "#4B5258",
+  grey_fg = "#4e565c",
+  grey_fg2 = "#5e676e",
+  light_grey = "#656d73",
+  --
   -- original dark colors
   -- darker_black = "#272f35",
   -- black = "#2b3339",
@@ -43,18 +47,19 @@ local colors = {
   folder_bg = "#7393b3",
 
   -- ashes base color
-  base00 = "#1c2023",
-  base01 = "#272b2e",
+  base00 = "#232a2f",
+  base01 = "#272f35",
   base02 = "#303437",
-  base03 = "#44484b",
+  base03 = "#343e46",
+  base04 = "#3d4952",
 
   -- original base colors
   -- base00 = "#2b3339",
   -- base01 = "#323c41",
   -- base02 = "#3a4248",
   -- base03 = "#424a50",
+  -- base04 = "#4a5258",
 
-  base04 = "#4a5258",
   base05 = "#d3c6aa",
   base06 = "#ddd0b4",
   base07 = "#e7dabe",
