@@ -22,38 +22,36 @@ local colors = {
   statusline_bg = "#131920",
   lightbg = "#2a3846",
 
-
-  base05 = "#bac0cb",
-  base06 = "#c5cbd6",
-  base07 = "#ced4df",
-  base08 = "#ebb9b9",
-  base09 = "#e8cca7",
-  base0A = "#e6dfb8",
-  base0B = "#b1dba4",
-  base0C = "#b8dceb",
-  base0D = "#a3b8ef",
-  base0E = "#f6bbe7",
-  base0F = "#eAc1c1",
-
-  red = "#ebb9b9",
-  baby_pink = "#EAC1C1",
-  pink = "#E9D1D1",
-  line = "#2d2d37",
-  green = "#b1dba4",
-  vibrant_green = "#BEE0A8",
-  blue = "#CDDBF9",
-  nord_blue = "#BCCAEB",
-  yellow = "#E6DFB8",
-  sun = "#EEE8BA",
-  purple = "#f6bbe7",
-  dark_purple = "#E8B6E9",
-  teal = "#AEDCB7",
-  orange = "#E8CCA7",
-  cyan = "#b8dceb",
-  pmenu_bg = "#ebb9b9",
-  folder_bg = "#b8dceb",
-
-
+  base05 = "#a2aab9",
+  base06 = "#b7bfcc",
+  base07 = "#9ca8bf",
+  base08 = "#db8080",
+  base09 = "#deb47d",
+  base0A = "#dfd6a4",
+  base0B = "#9bd08a",
+  base0C = "#90c8e0",
+  base0D = "#86a2ea",
+  base0E = "#f3a5e0",
+  base0F = "#e0a4a4",
 }
+
+-- Now assign the keys that refer to other keys
+colors.red = colors.base08
+colors.baby_pink = colors.base0F
+colors.pink = "#ca9191"
+colors.line = "#2d2d37"
+colors.green = colors.base0B
+colors.vibrant_green = "#a6d487"
+colors.blue = "#a4bdf4"
+colors.nord_blue = "#a1b5e3"
+colors.yellow = colors.base08
+colors.sun = "#E7de9d"
+colors.purple = colors.base07
+colors.dark_purple = "#e2a1e3"
+colors.teal = "#9bd4a6"
+colors.orange = colors.base09
+colors.cyan = colors.base0C
+colors.pmenu_bg = colors.base08
+colors.folder_bg = colors.base0C
 
 return colors
