@@ -1,8 +1,8 @@
 local colors = {
   white = "#D3C6AA",
-  darker_black = "#0c0e11", -- 12 14 17
-  black = "#0d0f13",
-  black2 = "#161a1f",
+  darker_black = "#15191e", -- 12 14 17
+  black = "#1e222a",
+  black2 = "#262c36",
 
   one_bg = "#1f242c",
   one_bg2 = "#282e38",
@@ -28,16 +28,16 @@ local colors = {
   teal = "#69a59d",
   orange = "#e69875",
   cyan = "#95d1c9",
-  statusline_bg = '#303844', -- base02
-  lightbg = "#303844",
+  statusline_bg = '#1e222a', -- base02
+  lightbg = "#262c32",
   pmenu_bg = "#83c092",
   folder_bg = "#7393b3",
 
-  base00 = "#0c0e11",
-  base01 = "#0d0f13",
-  base02 = "#161a1f",
-  base03 = "#1f242c",
-  base04 = "#282e38",
+  base00 = "#1e222a",
+  base01 = "#262c36",
+  base02 = "#2e3642",
+  base03 = "#37404e",
+  base04 = "#3f4a5a",
 
 
   base05 = "#d3c6aa",
