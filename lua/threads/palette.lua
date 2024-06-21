@@ -1,6 +1,6 @@
 local colors = {
   white = "#ced4df",
-  darker_black = "#0b0f13",
+  darker_black = "#040506",
   black = "#0c1014",
   black2 = "#131920",
 
@@ -19,7 +19,7 @@ local colors = {
   base03 = "#2a3846",
   base04 = "#324253",
 
-  statusline_bg = "#1b242d",
+  statusline_bg = "#131920",
   lightbg = "#2a3846",
 
 
