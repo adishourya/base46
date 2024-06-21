@@ -1,23 +1,26 @@
 local colors = {
   white = "#ced4df",
-  darker_black = "#19191a",
-  black = "#1C1C1E",
-  black2 = "#222225",
+  darker_black = "#0b0f13",
+  black = "#0c1014",
+  black2 = "#131920",
 
-  one_bg = "#2c2c2f",
-  one_bg2 = "#36363a",
-  one_bg3 = "#404045",
+  one_bg = "#1b242d",
+  one_bg2 = "#222e39",
+  one_bg3 = "#2a3846",
 
-  grey = "#4a4a4f",
-  grey_fg = "#54545a",
-  grey_fg2 = "#5e5e64",
-  light_grey = "#67676f",
+  grey = "#324253",
+  grey_fg = "#394c60",
+  grey_fg2 = "#41576c",
+  light_grey = "#496179",
 
-  base00 = "#1C1C1E",
-  base01 = "#222225",
-  base02 = "#2c2c2f",
-  base03 = "#36363a",
-  base04 = "#404045",
+  base00 = "#0c1014",
+  base01 = "#131920",
+  base02 = "#1b242d",
+  base03 = "#2a3846",
+  base04 = "#324253",
+
+  statusline_bg = "#1b242d",
+  lightbg = "#2a3846",
 
 
   base05 = "#bac0cb",
@@ -47,8 +50,6 @@ local colors = {
   teal = "#AEDCB7",
   orange = "#E8CCA7",
   cyan = "#b8dceb",
-  statusline_bg = "#222225",
-  lightbg = "#2e2e38",
   pmenu_bg = "#ebb9b9",
   folder_bg = "#b8dceb",
 
